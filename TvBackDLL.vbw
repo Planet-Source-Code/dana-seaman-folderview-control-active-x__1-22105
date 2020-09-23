@@ -1,0 +1,8 @@
+cTile = 110, 64, 468, 466, Z
+cTVBackground = 0, 0, 0, 0, C
+ISubclass = 0, 0, 0, 0, C
+GSubclass = 0, 0, 0, 0, C
+CTimer = 0, 0, 0, 0, C
+mGDI = 0, 0, 0, 0, C
+MSubclass = 0, 0, 0, 0, C
+MTimer = 0, 0, 0, 0, C
